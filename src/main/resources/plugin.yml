@@ -1,0 +1,12 @@
+name: RocketParkour
+version: '${version}'
+main: com.iamforyydev.rocketparkour.RocketParkour
+authors: [ iAmForyyDev_ ]
+description: parkour plugin to Rocket Plugins
+depend:
+  - WorldGuard
+  - WorldEdit
+
+commands:
+  parkour:
+    usage: /<command>
